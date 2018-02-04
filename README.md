@@ -1,5 +1,5 @@
 
-![RN](https://www.gitbook.com/531af523-b37f-4de4-af6f-78e95e1a2634)
+![RN](https://user-images.githubusercontent.com/9362317/35778118-f36cfd52-09fc-11e8-8bbc-cc3772805e2b.png)
 
 Vscode 에서 eslint 활성화하는 방법
 
